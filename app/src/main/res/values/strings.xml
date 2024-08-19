@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AI BOT</string>
+    <string name="my_history">My History</string>
+    <string name="search_here">Search Here...</string>
+    <string name="gemini_ai">Gemini AI</string>
+    <string name="drawer">drawer</string>
+    <string name="logo">logo</string>
+    <string name="upload">upload</string>
+    <string name="close_image">close image</string>
+</resources>

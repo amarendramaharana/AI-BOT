@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152302675460",
+    "project_id": "ai-bot-eb937",
+    "storage_bucket": "ai-bot-eb937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152302675460:android:22898d17e337eaa9b0b751",
+        "android_client_info": {
+          "package_name": "com.example.aibot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyDC3vUbxNBDxazjCmZiPUs6ucdVwSTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
