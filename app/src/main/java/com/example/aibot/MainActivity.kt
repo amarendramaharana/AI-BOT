@@ -32,7 +32,6 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-
 class MainActivity : AppCompatActivity(), OnItemClickListner {
     private lateinit var resultAdapter: ResultAdapter
     private lateinit var drawerAdapter: DrawerAdapter
